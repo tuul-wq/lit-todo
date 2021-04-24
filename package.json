@@ -1,0 +1,23 @@
+{
+  "name": "lit-todo",
+  "version": "1.0.0",
+  "description": "Lit 2.0 Todo app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tuul-wq/lit-todo.git"
+  },
+  "keywords": [
+    "lit",
+    "web-components"
+  ],
+  "author": "Yaroslav Grachev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tuul-wq/lit-todo/issues"
+  },
+  "homepage": "https://github.com/tuul-wq/lit-todo#readme"
+}
